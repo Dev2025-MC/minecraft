@@ -1,6 +1,6 @@
 <html>
 <head>
-  </style>
+
 </head>
 <body>
   <h1>Github</h1>
